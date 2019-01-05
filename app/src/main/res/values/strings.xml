@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="button_text">Lekker schudden!</string>
+    <string name="title_text">Vraag maar raak!</string>
 </resources>
